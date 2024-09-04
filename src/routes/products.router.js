@@ -68,4 +68,4 @@ productsRouter.delete('/:pid', async (req, res) => {
     }
 })
 
-export {productsRouter}
+export { productsRouter }
